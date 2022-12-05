@@ -24,7 +24,6 @@
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/dazz-vettiyil-27479a128/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:dazzv@hotmail.com) 💌
  - [GitHub Profile Summary](https://github.com/dass300)
- - 
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dass300&show_icons=true)
