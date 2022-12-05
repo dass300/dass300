@@ -19,16 +19,13 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
+
  
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/dazz-vettiyil-27479a128/) 👨🏻‍💻
  - Shoot Me an [Email](mailto:dazzv@hotmail.com) 💌
  - [GitHub Profile Summary](https://github.com/dass300)
- 
-<a href="https://stackoverflow.com/users//users/27153009/dazz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/users/27153009/dazz" height="30" width="40" /></a>
-<a href="https://instagram.com//dazzvettiyl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="/dazzvettiyl/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/s.org/user/rajn446/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="s.org/user/rajn446/" height="30" width="40" /></a>
-</p>
+ - 
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=dass300&show_icons=true)
 
