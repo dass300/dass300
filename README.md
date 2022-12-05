@@ -1,4 +1,4 @@
-[![MasterHead](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)]
+![MasterHead](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
 <h1 align="center">Hi 👋, I'm Muruka das</h1>
 <h3 align="center">A self-taught passionate MERN Full Stack developer from India</h3>
 
@@ -8,7 +8,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 - 🌱 I’m currently learning **Next Js,Soket Io,Doker,kubetnetes**
 
-- 👯My e-commerce site [Dazkart](https://www.dazkart.shop/)
+- 👯My e-commerce project [Dazkart](https://www.dazkart.shop/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dass300,https://dass300.github.io/personal-web-site/](https://github.com/dass300,https://dass300.github.io/personal-web-site/)
 
