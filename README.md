@@ -1,8 +1,9 @@
 ![MasterHead](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
-<h1 align="center">Hi 👋, I'm Muruka das</h1>
+<h2 align="center">MERN FULL STACK DEVELOPER</h2>
+<h1 align="center">Hi 👋, I'm daz</h1>
 <h3 align="center">A self-taught passionate MERN Full Stack developer from India</h3>
 
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 - 🔭 I’m currently working on [my social meda app](Dazzo)
 
