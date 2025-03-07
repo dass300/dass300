@@ -10,6 +10,7 @@
 
 - 🌱 I’m currently learning **Next Js,Soket Io,Doker,kubetnetes**
 
+- 👯My Automation testing project [Dazkart](dass300/Automation_project1 )
 - 👯My e-commerce project [Dazkart](https://www.dazkart.shop/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dass300,https://dass300.github.io/personal-web-site/](https://github.com/dass300,https://dass300.github.io/personal-web-site/)
@@ -41,6 +42,8 @@
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" alt="c" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
