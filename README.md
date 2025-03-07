@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next Js,Soket Io,Doker,kubetnetes**
 
-- 👯My Automation testing project [Automation_projec](dass300/Automation_project1 )
+- 👯My Automation testing project [Automation_project](dass300/Automation_project1 )
 - 👯My e-commerce project [Dazkart](https://www.dazkart.shop/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dass300,https://dass300.github.io/personal-web-site/](https://github.com/dass300,https://dass300.github.io/personal-web-site/)
