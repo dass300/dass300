@@ -9,7 +9,7 @@
 
 
 
-- 👯My Automation testing project [Automation_project](Automation_project1 )
+- 👯My Automation testing project [Automation_project](/Automation_project1)
 - 👯My e-commerce project [Dazkart](https://www.dazkart.shop/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/dass300,https://dass300.github.io/personal-web-site/](https://github.com/dass300,https://dass300.github.io/personal-web-site/)
