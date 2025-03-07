@@ -1,5 +1,5 @@
 ![MasterHead](https://synergytopimages.s3.ap-south-1.amazonaws.com/wp-content/uploads/2021/07/06034502/MERN-1-1.png)
-<h2 align="center">SOFTWARE TESTER,MANUAL AND AUTOMATION</h2>
+<h2 align="center">SOFTWARE TESTER,MANUAL AND AUTOMATION </h2>
 <h2 align="center">LEARNING MERN STACK/h2>
 
 <h1 align="center">Hi 👋, I'm daz</h1>
