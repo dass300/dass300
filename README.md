@@ -32,11 +32,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+ 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
-           
-          
+<img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="aws" width="40" height="40"/>        
+ </a>
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>        
  </a>
 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
@@ -44,6 +45,9 @@
   
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/get-icon/geticon/blob/master/icons/selenium.svg" alt="c" width="50" height="50"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg" alt="c" width="50" height="50"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
